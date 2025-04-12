@@ -19,6 +19,8 @@ This project implements a document-analyzing agent named Alfred, inspired by Bat
 ## Logic Diagram
 
 The logic diagram below illustrates the flow of the state graph used in this project:
+![image](https://github.com/user-attachments/assets/723c1221-ffd9-4178-b76e-ecace88166b7)
+
 
 
 ## Example
